@@ -4,7 +4,7 @@
   </head>
   
   <body>
-	<h1> <b> Curriculum Vitae </h1></b>
+	<h1> <b> Curriculum Vitae </h4></b>
 
 	<h3><b> <u>1 - Dados Pessoais</u></b></h3>
 
