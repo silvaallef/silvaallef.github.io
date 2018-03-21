@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-      <title>Curriculo do Allef</title>
   </head>
   
   <body>
 	<h1 align = 'center' <b> Curriculum Vitae </h4></b>
 
-	<h3><b> <u>1 - Dados Pessoais</u></b></h3>
+	<h2><b> <u>1 - Dados Pessoais</u></b></h3>
 
 	<h4><b>Nome:</b><br></h4>Allef Silva Souza <br>
 
