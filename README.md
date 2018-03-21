@@ -6,7 +6,7 @@
   <body>
 	<h1 align = 'center' <b> Curriculum Vitae </h4></b>
 
-	<h2><b> <u>1 - Dados Pessoais</u></b></h3>
+	<h3><b> <u>1 - Dados Pessoais</u></b></h3>
 
 	<h4><b>Nome:</b><br></h4>Allef Silva Souza <br>
 
