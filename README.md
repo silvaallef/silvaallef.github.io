@@ -34,10 +34,4 @@ Ensino Médio: Colegio Adventista (2013)<p>
 Cargo: Estagiário de Arquitetura de Aplicação<p>
 Ano Entrada: 2017<p>
 Ano Saida: 2018 <p>
-</h4></b>
 
-
-
-</body>
-
-</html>
