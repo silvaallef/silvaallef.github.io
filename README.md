@@ -28,7 +28,7 @@ Ensino Médio: Colegio Adventista (2013)<p>
 <b>Ensino Superior: Cursando Sistemas de Informação - UFG </h4>
 
 
-<h3><b> <u>3 - Dados Profissionais </h3></b> </u>
+<h3><b><u>3 - Dados Profissionais </u></b></h3>
 
 <h4><b>Empresa:Hypermarcas </b><p>
 Cargo: Estagiário de Arquitetura de Aplicação<p>
