@@ -25,7 +25,7 @@
 
 <h4>Ensino Fundamental: Colegio Adventista <p>
 Ensino Médio: Colegio Adventista (2013)<p>
-<b>Ensino Superior: Cursando Sistemas de Informação - UFG </h4>
+<b>Ensino Superior: Cursando Sistemas de Informação - UFG 
 
 
 <h3><b><u>3 - Dados Profissionais </u></b></h3>
