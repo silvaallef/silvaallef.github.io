@@ -30,8 +30,8 @@ Ensino Médio: Colegio Adventista (2013)<p>
 
 <h3><b> <u>3 - Dados Profissionais </h3></b> </u>
 
-<h4><b>Empresa:Hypermarcas xyz</b><p>
-Cargo: Estagiario de Arquitetura de Aplicação<p>
+<h4><b>Empresa:Hypermarcas </b><p>
+Cargo: Estagiário de Arquitetura de Aplicação<p>
 Ano Entrada: 2017<p>
 Ano Saida: 2018 <p>
 </h4></b>
